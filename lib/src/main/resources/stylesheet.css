@@ -12,7 +12,7 @@
  */
 
 body {
-    background-color:#ffffff;
+    background-color:blue;
   /*  color:#353833;*/
   /*Cambio color del título de tabla*/
     color:#9900CC;
@@ -48,7 +48,7 @@ a[name] {
 pre {
     font-family:'DejaVu Sans Mono', monospace;
     font-size:14px;
-	color:#CC66CC;
+	color:green;
 }
 h1 {
     font-size:20px;
